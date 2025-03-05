@@ -22,7 +22,7 @@ export default function Footer() {
                 />
               </Link> */}
               <Link to="/" className="text-xl font-bold">
-                <span style={{ color: "#2D6F6D" }}>Naogaon</span>
+                <span style={{ color: "#2D6F6D" }}>Naogaon </span>
                 Medicine
               </Link>
             </div>
@@ -179,18 +179,6 @@ export default function Footer() {
                 <Youtube className="fill-current text-qgray hover:text-qblack" />
               </a>
             </div>
-            <span className="sm:text-base text-[10px] text-qgray font-300">
-              ©2022
-              <a
-                href="https://quomodosoft.com/"
-                target="_blank"
-                rel="noreferrer"
-                className="font-500 text-qblack mx-1"
-              >
-                Quomodosoft
-              </a>
-              All rights reserved
-            </span>
           </div>
           <div className="">
             <a href="#">
