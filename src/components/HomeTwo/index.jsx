@@ -1,5 +1,5 @@
 import React from "react";
-import LayoutHomeTwo from "../Partials/LayoutHomeTwo";
+import LayoutHomeTwo from "../Partials/Layout";
 
 import datas from "../../data/productsTwo.json";
 import SectionStyleFour from "../Helpers/SectionStyleFour";
