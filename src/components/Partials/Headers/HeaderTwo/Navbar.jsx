@@ -687,13 +687,10 @@ export default function Navbar({ className }) {
                   <li className="relative">
                     <Link to="/">
                       <span className="flex items-center text-sm text-white font-600 cursor-pointer ">
-                        <span>Homepage</span>
-                        <span className="ml-1.5 ">
-                          <Arrow className="fill-current" />
-                        </span>
+                        <span>Home</span>
                       </span>
                     </Link>
-                    <div className="sub-menu w-[220px] absolute left-0 top-[60px]">
+                    {/* <div className="sub-menu w-[220px] absolute left-0 top-[60px]">
                       <div
                         className="w-full bg-white flex justify-between items-center "
                         style={{
@@ -744,7 +741,7 @@ export default function Navbar({ className }) {
                           </div>
                         </div>
                       </div>
-                    </div>
+                    </div> */}
                   </li>
                   <li>
                     <span className="flex items-center text-sm text-white font-600 cursor-pointer ">
